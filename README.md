@@ -1,2 +1,2 @@
-# HTML-Assignments
-Newton School HTML Assignments Solutions are available Here.
+# Higgs-Boson-Batch-Assignments
+Newton School Higgs-Boson-Batch Assignments Solutions are available Here.
