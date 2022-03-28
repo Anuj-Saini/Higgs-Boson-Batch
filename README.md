@@ -1,2 +1,2 @@
-# Frontend-Assignments
-Newton School Frontend Assignments Solutions are available Here.
+# HTML-Assignments
+Newton School HTML Assignments Solutions are available Here.
