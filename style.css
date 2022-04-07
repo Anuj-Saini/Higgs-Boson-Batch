@@ -1,0 +1,26 @@
+.main-content{
+    min-height: 1000px;
+    width: 90%;
+    margin: 20px auto;
+    display: grid
+    grid-template-columns: 300px 700px;
+}
+.left-section{
+    grid-column: 300px;
+    grid-column: span1;
+
+}
+.right-section{
+    width: 90%;
+}
+body{
+    display: block;
+    background-color: #a6abad;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
